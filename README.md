@@ -1,8 +1,8 @@
-### President: 
-The President presides at meetings of the Club, has general supervision of the operations of the Club. Serves as one of the Club’s representatives on Area and District Councils.
+[![libnir president](https://user-images.githubusercontent.com/99045240/177618080-79da63e7-8b97-4ba5-bf22-e851b10dde6e.png)](https://www.toastmasters.org/resources/president-overview)
 
-### VP Education: 
-Second ranking officer of Club. Plans and directs club programs which meet the educational needs of the Club members. Plans and publishes regular schedules of meeting assignments. Keeps track of member's progress towards goals. Serves as one of the Club’s representatives on Area and District Councils. 
+
+![Vice President of Education](https://user-images.githubusercontent.com/99045240/177620916-49ed435d-bc46-4e3b-acc3-0bc1b911360f.png)
+(https://www.toastmasters.org/resources/vice-president-education-overview)
 
 ### VP Membership: 
 Third ranking officer. Plans and directs programs to retain and increase club membership. Serves as one of the Club’s representatives on Area and District Councils. 
