@@ -1,44 +1,20 @@
-# Toastmasters
+### President: 
+The President presides at meetings of the Club, has general supervision of the operations of the Club. Serves as one of the Club’s representatives on Area and District Councils.
 
-## Mission
+### VP Education: 
+Second ranking officer of Club. Plans and directs club programs which meet the educational needs of the Club members. Plans and publishes regular schedules of meeting assignments. Keeps track of member's progress towards goals. Serves as one of the Club’s representatives on Area and District Councils. 
 
-Our mission is to provide an opportunity for any Freenomer to improve their leadership, communication, and presentation skills by offering membership in a corporate [Toastmasters](https://www.toastmasters.org/) Club.
+### VP Membership: 
+Third ranking officer. Plans and directs programs to retain and increase club membership. Serves as one of the Club’s representatives on Area and District Councils. 
 
-## Meeting
+### VP Public Relations: 
+The Vice President Public Relations is the fourth ranking club officer and is responsible for developing and directing a publicity program that informs individual members and the general public about Toastmasters International. The Vice President Public Relations chairs the Public Relations Committee.
 
-Meeting Time: 
-Bi-weekly meetings 
-12:00-1:00 PM PT Thursday
-Meetings will be held remotely
+### Treasurer: 
+The Treasurer is responsible for Club financial policies, procedures and controls. Collects dues and pays dues to Toastmasters International, and maintains records. Makes financial reports to the Club at least quarterly. Receives and disburses, with approval of the Club, all Club funds. 
 
-## Data
+### Secretary: 
+The Secretary is responsible for Club records and correspondence. Maintains the club roster. Has custody of the Club’s charter, Constitution, Bylaws, and all other records and documents of the club. Keeps an accurate record of the meetings and activities of the Club.
 
-Please use the [Sign in sheet](https://docs.google.com/spreadsheets/d/1jW4MePieySrMCQtQaZQiDxJsRtbIGqPNCfw_ZUXUnb8/edit#gid=0) to sign up for roles! :)
-
-# Still in the works for wiki links using html
-
-<html>
-  <body>
-    <a href="https://github.com/loannhoa/toastmasters.wiki.git"><img src="https://user-images.githubusercontent.com/99045240/177595562-2a5ec00e-9e45-4a0f-875b-d2c981b6f0c8.png"alt="About me html" style="width:100px;height:100px;"></a>
-  </body>
-  </html>
- 
-<html>
-  <body>
-    <a href="https://github.com/loannhoa/toastmasters.wiki.git"><img src="https://user-images.githubusercontent.com/99045240/177601604-0ab03954-820d-4c9d-8d1f-602ffdc600a7.png"alt="Contact Us html" style="width:100px;height:100px;"></a>
-  </body>
-  </html>
-  
-  <html>
-  <body>
-    <a href="https://github.com/loannhoa/toastmasters.wiki.git"><img src="https://user-images.githubusercontent.com/99045240/177601777-895dad4a-d815-4aa3-8248-1a9b545ac013.png"alt="Resources html" style="width:100px;height:100px;"></a>
-  </body>
-  </html>
-
-# Still in the works using markdown
-
-[![About us](https://user-images.githubusercontent.com/99045240/177595562-2a5ec00e-9e45-4a0f-875b-d2c981b6f0c8.png)](https://github.com/loannhoa/toastmasters.wiki.git)
-
-[![Contact Us](https://user-images.githubusercontent.com/99045240/177601604-0ab03954-820d-4c9d-8d1f-602ffdc600a7.png)](https://github.com/loannhoa/toastmasters.wiki.git)
-
-[![Resources](https://user-images.githubusercontent.com/99045240/177601777-895dad4a-d815-4aa3-8248-1a9b545ac013.png)](https://github.com/loannhoa/toastmasters.wiki.git)
+### Sergeant at Arms: 
+The Club Sergeant at Arms is responsible for club property management, meeting room preparation, and hospitality. The Sergeant at Arms chairs the Social and Reception Committee.
