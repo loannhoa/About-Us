@@ -1,20 +1,19 @@
-[![libnir president](https://user-images.githubusercontent.com/99045240/177618080-79da63e7-8b97-4ba5-bf22-e851b10dde6e.png)](https://www.toastmasters.org/resources/president-overview)
-
+[![President](https://user-images.githubusercontent.com/99045240/177621602-d96895fd-e046-4265-b0c2-bdf413e0d9b7.png)](https://www.toastmasters.org/resources/president-overview)
 
 [![Vice President of Education](https://user-images.githubusercontent.com/99045240/177620916-49ed435d-bc46-4e3b-acc3-0bc1b911360f.png)]
 (https://www.toastmasters.org/resources/vice-president-education-overview)
 
-### VP Membership: 
-Third ranking officer. Plans and directs programs to retain and increase club membership. Serves as one of the Club’s representatives on Area and District Councils. 
+[![Vice President Membership](https://user-images.githubusercontent.com/99045240/177622015-541570ef-f5e6-4f80-86c6-41fb8b4e59f3.png)]
+(https://www.toastmasters.org/resources/vice-president-membership-overview)
+ 
+[![Vice President Public Relations](https://user-images.githubusercontent.com/99045240/177622741-c755cd1d-63f4-4741-b130-e58c9411cf17.png)]
+(https://www.toastmasters.org/leadership-central/club-officer-tools/club-officer-roles/public-relations/vppr-responsibilities)
 
-### VP Public Relations: 
-The Vice President Public Relations is the fourth ranking club officer and is responsible for developing and directing a publicity program that informs individual members and the general public about Toastmasters International. The Vice President Public Relations chairs the Public Relations Committee.
+[![Treasurer](https://user-images.githubusercontent.com/99045240/177622921-c256cbe2-f566-42dc-9b83-b51ed5e298b0.png)]
+(https://www.toastmasters.org/resources/treasurer-overview)
 
-### Treasurer: 
-The Treasurer is responsible for Club financial policies, procedures and controls. Collects dues and pays dues to Toastmasters International, and maintains records. Makes financial reports to the Club at least quarterly. Receives and disburses, with approval of the Club, all Club funds. 
+[![Secretary](https://user-images.githubusercontent.com/99045240/177623188-07854006-d7cd-48bf-8c49-6812a4bf6367.png)]
+(https://www.toastmasters.org/resources/secretary-overview)
 
-### Secretary: 
-The Secretary is responsible for Club records and correspondence. Maintains the club roster. Has custody of the Club’s charter, Constitution, Bylaws, and all other records and documents of the club. Keeps an accurate record of the meetings and activities of the Club.
-
-### Sergeant at Arms: 
-The Club Sergeant at Arms is responsible for club property management, meeting room preparation, and hospitality. The Sergeant at Arms chairs the Social and Reception Committee.
+[![Sergeant at arms](https://user-images.githubusercontent.com/99045240/177623400-ec7e4e85-08c3-4fb5-855d-a3a8874d230b.png)]
+(https://www.toastmasters.org/resources/sergeant-at-arms-overview)
