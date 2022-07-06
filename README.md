@@ -1,7 +1,7 @@
 [![libnir president](https://user-images.githubusercontent.com/99045240/177618080-79da63e7-8b97-4ba5-bf22-e851b10dde6e.png)](https://www.toastmasters.org/resources/president-overview)
 
 
-![Vice President of Education](https://user-images.githubusercontent.com/99045240/177620916-49ed435d-bc46-4e3b-acc3-0bc1b911360f.png)
+[![Vice President of Education](https://user-images.githubusercontent.com/99045240/177620916-49ed435d-bc46-4e3b-acc3-0bc1b911360f.png)]
 (https://www.toastmasters.org/resources/vice-president-education-overview)
 
 ### VP Membership: 
