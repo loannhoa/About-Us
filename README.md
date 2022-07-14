@@ -6,7 +6,7 @@
  
 [![Vice President Public Relations](https://user-images.githubusercontent.com/99045240/177622741-c755cd1d-63f4-4741-b130-e58c9411cf17.png)](https://www.toastmasters.org/leadership-central/club-officer-tools/club-officer-roles/public-relations/vppr-responsibilities)
 
-[![Treasurer](https://user-images.githubusercontent.com/99045240/177622921-c256cbe2-f566-42dc-9b83-b51ed5e298b0.png)](https://www.toastmasters.org/resources/treasurer-overview)
+[![Treasurer](https://user-images.githubusercontent.com/99045240/179060034-25ea667b-29e0-4d10-8793-fce5f49919b2.png)](https://www.toastmasters.org/resources/treasurer-overview)
 
 [![Secretary](https://user-images.githubusercontent.com/99045240/177623188-07854006-d7cd-48bf-8c49-6812a4bf6367.png)](https://www.toastmasters.org/resources/secretary-overview)
 
